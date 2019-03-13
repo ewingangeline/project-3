@@ -1,0 +1,59 @@
+<title>Personal Website</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="css/styles.css">  
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="Grace.jpg">AEM</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">About</a></li>
+        <li><a href="about me.html">Active</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="resume.html">Resume</a></li>
+        <li><a href="home index.html">Home</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<div class="container-fluid bg-1 text-center">
+        <h3>Who Am I?</h3>
+        <img src="images/Nature.jpg" class="img-circle" alt="Bird" width="350" height="350">
+        <h3>Angeline Mboutngam. I am Working on Self-Discovery</h3>
+      </div>
+      
+      <div class="container-fluid bg-2 text-center">
+        <h3></h3>
+        <p>The purpose of this website is to prove to myself that I can apply every thing learned for the past 8 weeks.To learned more about me, click on the LinkeIn page below.</p>
+        <a href="https://www.linkedin.com/in/angeline-mboutngam-04303796/" class="btn btn-default btn-lg">
+          <span class="glyphicon glyphicon-search"></span> linkedin
+        </a>
+      </div>
+      
+      <div class="container-fluid bg-3 text-center">    
+        <h3>Having Good Friends, Taking Long Nature Walks and Having a Comfortable Home is all I Need in Life</h3><br>
+        <div class="row">
+          <div class="col-sm-4">Base on my life experieces, sharing bread with good friends is an important component in social life.</p>
+            <img src="images/Friendship.jpg" alt="Image" width="350" height="300">
+          </div>
+          <div class="col-sm-4"> 
+            <p>Below is a picture of my dream home.Leaving in the natural habital is one of my dreams.I can't wait to be able to breath fresh air and just relaxed</p>
+            <img src="images/Grace.jpg" alt="Image" width="350" height="300">
+          </div>
+          <div class="col-sm-4"> 
+            <p>Sometimes, life throws me down and I have learned that it might take a long time to pick myself up, but I always do.</p>
+            <img src="images/my favorite quote.jpg" alt="Image" width="350" height="300">
+          </div>
+        </div>
+      </div>
+      
+      </body>
+      </html>
+      
